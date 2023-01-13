@@ -1,0 +1,2 @@
+# easylog
+Make logging easy😁
